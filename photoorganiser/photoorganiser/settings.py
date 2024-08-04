@@ -124,6 +124,6 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = ''
 MEDIA_ROOT = BASE_DIR / "media"
 MEDIA_URL = '/media/'
